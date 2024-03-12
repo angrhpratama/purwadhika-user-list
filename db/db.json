@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Robert",
+      "email": "rob23@gmail.com",
+      "password": "robert123"
+    },
+    {
+      "id": "2",
+      "name": "Schwartz",
+      "email": "schwartz@gmail.com",
+      "password": "schwartz123"
+    },
+    {
+      "id": "3",
+      "name": "Emily",
+      "email": "emily73@gmail.com",
+      "password": "emily123"
+    },
+    {
+      "id": "4",
+      "name": "Dante",
+      "email": "dante08@gmail.com",
+      "password": "dante123"
+    },
+    {
+      "id": "5",
+      "name": "Ellen",
+      "email": "ellen59@gmail.com",
+      "password": "ellen123"
+    },
+    {
+      "id": "d4e2",
+      "name": "Rehan Adi",
+      "email": "rehan@gmail.com",
+      "password": "Rehanadi123!"
+    },
+    {
+      "id": "2429",
+      "name": "Adi Rehan",
+      "email": "rehan@gmail.com",
+      "password": "Rehan123!"
+    },
+    {
+      "id": "ea4e",
+      "name": "Rehan Purwana",
+      "email": "rehan@gmail.com",
+      "password": "Rehan123!"
+    },
+    {
+      "id": "8f79",
+      "name": "Purwana Adi",
+      "email": "rehan@gmail.com",
+      "password": "Rehanadi123!"
+    }
+  ]
+}
